@@ -1,6 +1,6 @@
 # Defu 101 - First hand
 
-[Read my article (FR)](https://esteban-soubiran.site/articles/defu-101-premiere-prise-en-main/) to learn Consola !
+[Read my article (FR)](https://esteban-soubiran.site/articles/defu-101-premiere-prise-en-main/) to learn Defu!
 
 ## Install dependencies
 
